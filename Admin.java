@@ -1,1 +1,2 @@
-public class Admin{}
+public class Admin
+qqqqq{}
